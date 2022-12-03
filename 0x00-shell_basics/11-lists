@@ -1,4 +1,1 @@
-#!/bin/bash
-/0x00-shell_basics/ls -la
-/alx-system_engineering-devops/ls -la
-/boot/ls -la
+#!/bin/bash 
